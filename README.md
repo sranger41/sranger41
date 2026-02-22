@@ -45,8 +45,9 @@
 <a href="https://discord.gg/semiproranger41">
 <img src="https://cdn.simpleicons.org/discord/FFFFFF" width="35" height="35"/>
 </a>
+
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:kikichin27@gmail.com">
+<a href="mailto:kikichin27@gmail.com?subject=">
 <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="35" height="35"/>
 </a>
 
