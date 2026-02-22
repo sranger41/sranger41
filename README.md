@@ -13,17 +13,17 @@
 ### 🛠 Languages and Tools
 <p align="center">
 
-<img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=55205&format=png&color=FFFFFF" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/php/FFFFFF" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/python/FFFFFF" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/css/FFFFFF" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/html5/FFFFFF" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/android/FFFFFF" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/mysql/FFFFFF" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/unity/FFFFFF" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/arduino/FFFFFF" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" width="40" height="40" style="margin: 0 10px;"/>
+<img src="https://img.icons8.com/?size=100&id=55205&format=png&color=FFFFFF" width="40" height="40" style="margin: 0 10px;"/>
+<img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="40" height="40" style="margin: 0 10px;"/>
+<img src="https://cdn.simpleicons.org/php/FFFFFF" width="40" height="40" style="margin: 0 10px;"/>
+<img src="https://cdn.simpleicons.org/python/FFFFFF" width="40" height="40" style="margin: 0 10px;"/>
+<img src="https://cdn.simpleicons.org/css/FFFFFF" width="40" height="40" style="margin: 0 10px;"/>
+<img src="https://cdn.simpleicons.org/html5/FFFFFF" width="40" height="40" style="margin: 0 10px;"/>
+<img src="https://cdn.simpleicons.org/android/FFFFFF" width="40" height="40" style="margin: 0 10px;"/>
+<img src="https://cdn.simpleicons.org/mysql/FFFFFF" width="40" height="40" style="margin: 0 10px;"/>
+<img src="https://cdn.simpleicons.org/unity/FFFFFF" width="40" height="40" style="margin: 0 10px;"/>
+<img src="https://cdn.simpleicons.org/arduino/FFFFFF" width="40" height="40" style="margin: 0 10px;"/>
 
 </p>
 
