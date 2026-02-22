@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm sranger41 👋</h1>
 
+---
+
 <br>
 
 <a align="left">
