@@ -2,21 +2,19 @@
 
 <br>
 
-<a align="left">
+<p align="center">
 💻 Systems Engineering Student <br>
 🤖 Frontend Developer | Robotics & Game Development <br>
 🚀 Building robotics projects and developing game prototypes
-</a>
+</p>
 
 ---
 
 ### 🛠 Languages and Tools
 <p align="center">
 
-<br>
-
 <img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/csharp/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/php/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/python/FFFFFF" width="40" height="40"/>
@@ -29,12 +27,19 @@
 
 </p>
 
-
 ---
 
 ### 📫 Contact Me
-<p align="left">
-<a href="https://discord.gg/semiproranger41" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="semiproranger41" height="30" width="40" />
+<p align="center">
+
+<a href="https://discord.gg/semiproranger41" target="_blank">
+<img src="https://cdn.simpleicons.org/discord/FFFFFF" width="35" height="35"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:kikichin27@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="35" height="35"/>
+</a>
+
 </p>
