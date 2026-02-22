@@ -14,7 +14,8 @@
 <p align="center">
 
 <img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/csharp/FFFFFF](https://img.icons8.com/?size=100&id=55204&format=png&color=000000)" width="40" height="40"/>
+<img src="<img width="512" height="512" alt="imagen" src="https://github.com/user-attachments/assets/b666119e-6910-48c5-bff1-8763da1a48ad" />
+" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/php/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/python/FFFFFF" width="40" height="40"/>
