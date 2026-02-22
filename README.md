@@ -16,7 +16,7 @@
 <br>
 
 <img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/csharp?color=FFFFFF" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/php/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/python/FFFFFF" width="40" height="40"/>
