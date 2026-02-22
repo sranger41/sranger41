@@ -11,15 +11,14 @@
 ---
 
 ### 🛠 Languages and Tools
-### 🛠 Languages and Tools
-<p align="left">
+<p align="center">
 
 <img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/csharp/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/php/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/python/FFFFFF" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/css3/FFFFFF" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/css/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/html5/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/android/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/mysql/FFFFFF" width="40" height="40"/>
