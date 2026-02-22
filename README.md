@@ -14,7 +14,7 @@
 <p align="center">
 
 <img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/csharp/FFFFFF" width="40" height="40"/>
+<img src="[https://cdn.simpleicons.org/csharp/FFFFFF](https://img.icons8.com/?size=100&id=55204&format=png&color=000000)" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/php/FFFFFF" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/python/FFFFFF" width="40" height="40"/>
@@ -40,3 +40,5 @@
 </a>
 
 </p>
+
+
