@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm sranger41 👋</h1>
 
----
-
 <br>
 
 <a align="left">
@@ -10,6 +8,7 @@
 🚀 Building robotics projects and developing game prototypes
 </a>
 
+---
 
 ### 🛠 Languages and Tools
 <p align="left">
