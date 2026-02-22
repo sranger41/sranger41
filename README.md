@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm sranger41 👋</h1>
 
 <h3 align="left">
-💻 Systems Engineering Student
-🤖 Frontend Developer | Robotics & Game Development
+💻 Systems Engineering Student <br>
+🤖 Frontend Developer | Robotics & Game Development <br>
 🚀 Building robotics projects and developing game prototypes
 </h3>
 
